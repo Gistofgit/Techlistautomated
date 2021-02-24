@@ -34,7 +34,7 @@ public class TechlisticFormSubmission extends BaseClass{
 		
 		GithubFileDown gfd = new GithubFileDown(driver);
 		gfd.rawMtd();
-		gfd.hndldown();
+		//gfd.hndldown();
 		//pf.submtbtnMtd();
 		
 	}	

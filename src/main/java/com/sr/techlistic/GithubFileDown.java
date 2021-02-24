@@ -22,12 +22,15 @@ public class GithubFileDown {
 		raw.click();
 	}
 	
+	/*
 	public void hndldown() throws AWTException {
 		Robot r = new Robot();
 		r.keyPress(KeyEvent.VK_CONTROL);
 		r.keyPress(KeyEvent.VK_S);
+		r.keyPress(KeyEvent.VK_ENTER);
 		r.keyRelease(KeyEvent.VK_CONTROL);
 		r.keyRelease(KeyEvent.VK_S);
+		r.keyRelease(KeyEvent.VK_ENTER);
 		
 		r.keyPress(KeyEvent.VK_CONTROL);
 		r.keyPress(KeyEvent.VK_TAB);
@@ -41,4 +44,5 @@ public class GithubFileDown {
 		r.keyRelease(KeyEvent.VK_ENTER);
 		
 	}
+	*/
 }
